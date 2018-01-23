@@ -1,4 +1,3 @@
-# SADPTutorial
 #Software Analysis and Design Principles Tutorial Repo
 #T.Y. I.T.
 Group Members:
