@@ -5,7 +5,12 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.StringTokenizer;
  
-public class MyServer
+public interface cal()
+{
+	public int a,b;
+	public void getexp(int a,int b);
+}
+public class MyServer implements cal
 {	
 	public static int add(int a, int b){
 		 int r = a + b;
