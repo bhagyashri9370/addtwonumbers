@@ -1,13 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/*
- * CalculatorView.java
- *
- * Created on Feb 14, 2010, 9:18:44 AM
- */
 
 package view;
 
